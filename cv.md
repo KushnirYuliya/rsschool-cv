@@ -10,6 +10,8 @@
 * Phone: +375 33 614-37-38
 * Email: ykamenets280792@gmail.com
 * GitHub: [KushnirYuliya](https://github.com/KushnirYuliya)
+* Rs app: Yuliya Kushnir
+* Discord: @KushnirYuliya
 
 ### **About Me**
 --------------
