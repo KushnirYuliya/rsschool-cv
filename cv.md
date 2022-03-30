@@ -9,7 +9,7 @@
 * Location: Brest, Belarus
 * Phone: +375 33 614-37-38
 * Email: ykamenets280792@gmail.com
-* GitHub: KushnirYuliya
+* GitHub: [KushnirYuliya](https://github.com/KushnirYuliya)
 
 ### **About Me**
 --------------
@@ -34,6 +34,7 @@ function multiply(a, b){
 ```
 ### **Experience**
 --------------
+MUE "Brestzhilstroy": specialty PTO engineer sience 2014
 
 ### **Education**
 --------------
